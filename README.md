@@ -1,6 +1,6 @@
 # Reply Challenge 2020
 
-This repo hosts the source code of the Reply Challenge (standard edition) 2020 submitted by VittoTeam.
+This repo hosts the source code of the [Reply Challenge (standard edition) 2020](https://challenges.reply.com/tamtamy/challenge/code-standard-externals2020/stats) submitted by VittoTeam.
 
 ## Team participants
 
